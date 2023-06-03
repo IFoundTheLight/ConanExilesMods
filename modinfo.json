@@ -1,0 +1,12 @@
+{
+	"name": "IFTL Thrall Resurrection",
+	"description": "This allows you to resurrect dead followers.",
+	"changeNote": "",
+	"author": "IFoundTheLight",
+	"authorUrl": "https://iftl.net",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"folderName": "IFTL.ThrallResurrection"
+}

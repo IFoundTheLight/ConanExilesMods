@@ -1,0 +1,18 @@
+{
+	"name": "IFTL Vault Size v1.1.10",
+	"description": "This increases the size of the Vault to 3000 from 300.",
+	"changeNote": "",
+	"author": "IFoundTheLight",
+	"authorUrl": "https://iftl.net",
+	"versionMajor": 1,
+	"versionMinor": 1,
+	"versionBuild": 10,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2983183839",
+	"steamTestLivePublishedFileId": "",
+	"steamVisibility": 0,
+	"folderName": "IFTL_Vault_Size",
+	"revisionNumber": 469970,
+	"snapshotId": 36602,
+	"fileSize": 9
+}
