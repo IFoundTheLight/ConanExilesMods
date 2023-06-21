@@ -1,0 +1,18 @@
+{
+	"name": "IFTL BetterBricks",
+	"description": "Reduces the cost of bricks to 2 stones.",
+	"changeNote": "",
+	"author": "IFoundTheLight",
+	"authorUrl": "https://iftl.net",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2992544376",
+	"steamTestLivePublishedFileId": "2992323967",
+	"steamVisibility": 0,
+	"folderName": "IFTL_BetterBricks",
+	"revisionNumber": 507299,
+	"snapshotId": 37516,
+	"fileSize": -2004051383
+}
